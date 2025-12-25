@@ -1,0 +1,13 @@
+{
+  "name": "wils-fake-store",
+  "version": "1.0.0",
+  "description": "Wil's Fake Store - demo e-commerce",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "stripe": "^12.13.0"
+  }
+}
